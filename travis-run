@@ -80,7 +80,7 @@ create:\n\
 		--docker-base-image=BASE_IMAGE\n\
 			Docker image to use as the base for the container, see\n\
 			\`FROM' Dockerfile command.  (defaults to:\n\
-			ubuntu:presice)\n\
+			ubuntu:precise)\n\
 		--docker-build-stage=STAGE\n\
 			Stage of the image build to run, (one of: os, base,\n\
 			script, language, project)\n\
